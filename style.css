@@ -1,0 +1,15 @@
+#name
+{
+color: rgba(187, 255, 0, 0.884);
+}
+
+p 
+{
+    color: rgb(88, 241, 28);
+    background: rgb(150, 46, 46);
+    cursor: pointer;
+    margin: 50px;
+    border: 2px solid black;
+    padding: 15px;
+
+}
